@@ -1,6 +1,6 @@
 <h1 align="center">This is Jasser Cherif</h1>
-<h3 align="center">Student on The National School of Computer Science ENSI</h3>
-<h4 align="center">I am interested in Machine Learning and Deep Learning </h4>
+<h3 align="center">Student on The National School of Computer Science ENSI 💻</h3>
+<h4 align="center">I am interested in AI and Data Science </h4>
 
 - 🌱 I’m currently learning **Machine Learning**
 
