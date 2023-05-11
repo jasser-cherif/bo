@@ -12,11 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jasser-cherif-a74037255/" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="jasser-cherif" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jasser.cherif.79/" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)" alt="jasser-cherif" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jasser.cherif/?hl=fr" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" alt="jasser-cherif" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/jassercherif" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)" alt="jassercherif" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/jasser-cherif-a74037255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasser-cherif" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/jassercherif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jasser-cherif" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jasser.cherif.79/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100006394622607" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jasser.cherif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jasser-cherif" height="30" width="40" /></a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
