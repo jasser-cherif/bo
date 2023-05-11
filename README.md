@@ -1,5 +1,5 @@
 <h1 align="center">This is Jasser Cherif</h1>
-<h3 align="center">Student on The National School of Computer Science ENSI    <img src="https://github.com/jasser-cherif/jasser-cherif/blob/main/logoEnsi.png" title="ENSI" alt="ENSI" width="50" height="50"/>&nbsp;</h3>
+<h3 align="center">Student on The National School of Computer Science ENSI </h3> <img src="https://github.com/jasser-cherif/jasser-cherif/blob/main/logoEnsi.png" title="ENSI" alt="ENSI" width="50" height="50"/>&nbsp;
 <h4 align="center">I am interested in AI and Data Science </h4>
 
 - 🌱 I’m currently learning **Machine Learning**
