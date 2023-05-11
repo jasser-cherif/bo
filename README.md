@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&weight=900&size=30&duration=4000&pause=500&center=true&vCenter=true&width=1100&height=120&lines=Hello%2C+there!+%F0%9F%91%8B;This+is+Jasser+Cherif;Nice+to+meet+you)](https://git.io/typing-svg)
 <h3 align="center">Student on The National School of Computer Science    <img src="https://github.com/jasser-cherif/jasser-cherif/blob/main/logoEnsi.png" title="ENSI" alt="ENSI" width="60" height="50"/>&nbsp;</h3> 
-<img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasser-cherif&label=Profile%20views&color=0e75b6&style=flat" alt="jasser-cherif" /> </p>
 
 <h4 align="center">I am interested in AI and Data Science </h4>
