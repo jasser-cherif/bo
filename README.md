@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jasser+Cherif;Computer+Science+Engineering+Student ...;Search+For+Internship..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jasser+Cherif;Computer+Science+Engineer...;Search+For+Internship..."/>
 
 
 <h3 align="center">Student on The National School of Computer Science    <img src="https://github.com/jasser-cherif/jasser-cherif/blob/main/logoEnsi.png" title="ENSI" alt="ENSI" width="50" height="60"/>&nbsp;</h3> 
