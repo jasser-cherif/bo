@@ -1,5 +1,6 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jasser+Cherif;Computer+Science+Engineer...;Search+For+Internship..."/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&weight=900&size=30&duration=4000&pause=500&center=true&vCenter=true&width=1100&height=120&lines=Hello%2C+there!+%F0%9F%91%8B;This+is+Jasser+Cherif;Nice+to+meet+you)](https://git.io/typing-svg)
+
 
 
 <h3 align="center">Student on The National School of Computer Science    <img src="https://github.com/jasser-cherif/jasser-cherif/blob/main/logoEnsi.png" title="ENSI" alt="ENSI" width="50" height="60"/>&nbsp;</h3> 
