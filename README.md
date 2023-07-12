@@ -3,7 +3,7 @@
 
 <h5 align="center">
 
-<h3 align="center">Student on The National School of Computer Science    <img src="https://github.com/jasser-cherif/jasser-cherif/blob/main/logoEnsi.png" title="ENSI" alt="ENSI" width="60" height="80"/>&nbsp;</h3> 
+<h3 align="center">Student at The National School of Computer Science    <img src="https://github.com/jasser-cherif/jasser-cherif/blob/main/logoEnsi.png" title="ENSI" alt="ENSI" width="60" height="80"/>&nbsp;</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasser-cherif&label=Profile%20views&color=0e75b6&style=flat" alt="jasser-cherif" /> </p>
 
