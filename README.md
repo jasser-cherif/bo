@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **jassercherif88@gmail.com**
+- 📫 How to reach me **jasser.cherif@ensi-uma.tn**
 
 <h3 align="left">Connect with me:</h3>
 
